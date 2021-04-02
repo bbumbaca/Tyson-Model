@@ -1,4 +1,4 @@
-# Tyson-Model-
+# Tyson-Model
 
 Model of Mutual Inhibition implemented with Tellurium/Python
 
